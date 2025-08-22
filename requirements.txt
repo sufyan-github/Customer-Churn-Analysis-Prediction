@@ -1,0 +1,10 @@
+# Requirements for Telco Customer Churn Prediction Project
+
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+xgboost
+lightgbm
+jupyter
